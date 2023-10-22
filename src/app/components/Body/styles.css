@@ -1,10 +1,32 @@
 .container {
-    width: 100%;
+  width: 100%;
 }
 .main-links {
-    width: 100%;
+  width: 100%;
 }
 .logo {
-    width: 150px;
-    height: 50px;
+  width: 270px;
+  height: 70px;
+}
+.pages-link {
+  border: #000 solid 0px;
+}
+.heropageImg {
+  width: 300px;
+  height: 150px;
+}
+.company-description-container {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+.company-description {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  line-height: 1.5;
+}
+.readmore {
+  width: fit-content;
+  align-self: flex-end;
 }
