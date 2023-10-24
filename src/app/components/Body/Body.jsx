@@ -715,17 +715,17 @@ export default function Main() {
 
                         <p align="center">
                           <font face="Verdana" size="2" color="#808080">
-                            © C-MET Engineering India Pvt.Ltd.
+                            © Torque- Engineering Works Pvt Ltd
                             <br />
                             Website Designed and Maintained by :{" "}
-                            <img
+                            {/* <img
                               border="0"
                               src="images/OT_logo.gif"
                               align="middle"
-                            />
+                            /> */}
                             <font color="#808080">
                               <a href="/web/20141218145217/http://www.overtures-infotech.com/">
-                                <font color="#808080">OVERTURES InfoTech</font>
+                                <font color="#808080">Roshan Singh</font>
                               </a>
                             </font>
                           </font>
