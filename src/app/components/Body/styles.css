@@ -1,3 +1,6 @@
+body {
+  display: flex;
+}
 .container {
   width: 100%;
 }
@@ -29,4 +32,11 @@
 .readmore {
   width: fit-content;
   align-self: flex-end;
+}
+
+@media screen and (max-width: 780px) {
+  .heropageImg {
+    width: 180px;
+    height: 90px;
+  }
 }
